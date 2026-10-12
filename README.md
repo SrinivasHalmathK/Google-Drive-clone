@@ -1,4 +1,4 @@
-Install the project dependencies using npm:
+Install the project 
 
 ```bash
 npm install
